@@ -1,0 +1,17 @@
+
+body {
+    background-color: #EBE3FD;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+}
+
+button {
+    background-color: #6212CE;
+    color: white;
+    border-radius: 5px;
+    border-color: transparent;
+    width: 115px;
+    height: 40px;
+}
